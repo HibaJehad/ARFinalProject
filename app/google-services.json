@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "39511325218",
+    "project_id": "finalprojectar-d85ea",
+    "storage_bucket": "finalprojectar-d85ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39511325218:android:4785a869ab7c32f89be87b",
+        "android_client_info": {
+          "package_name": "com.example.homesweethome"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSjwMDM_Cf4STiMVKqCqDXziCvFis3fQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39511325218:android:b8f363f763d91aaa9be87b",
+        "android_client_info": {
+          "package_name": "com.example.productsadder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSjwMDM_Cf4STiMVKqCqDXziCvFis3fQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39511325218:android:67b9fa75fcb8431b9be87b",
+        "android_client_info": {
+          "package_name": "edu.cs.birzeit.burgerapp2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSjwMDM_Cf4STiMVKqCqDXziCvFis3fQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
